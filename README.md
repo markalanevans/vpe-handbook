@@ -1,4 +1,4 @@
-lml-docs
+vpe-handbook
 ========
 
 Table of Contents
